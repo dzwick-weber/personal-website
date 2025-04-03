@@ -55,14 +55,14 @@ social-network-links:
   # email: "dylanzwick@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: patrick.d.zwick
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: dzwick-weber
+  twitter: dzwick_weber
+  # patreon: DeanAttali
+  youtube: "@dylanzwick"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: dylanzwick
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: dylanzwick
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -84,7 +84,7 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-#  strava: youruserid
+  strava: 20919946
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
