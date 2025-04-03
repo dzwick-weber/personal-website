@@ -19,6 +19,8 @@ author: Dylan Zwick
 # --- List of links in the navigation bar --- #
 ###############################################
 
+paginate_path: "/blog/page:num/"
+
 navbar-links:
   Weber State: "https://www.weber.edu"
   #Personal:
