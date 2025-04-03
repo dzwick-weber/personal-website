@@ -40,4 +40,4 @@ If the intern has a faculty mentor and / or industry partner in mind, please spe
 
 We are working to fill these internships quickly, and earlier applicants get priority. So, if you're interested, please apply ASAP.
 
- ![Weber State Wildcat Mascot]("https://dylanzwick.com/assets/img/Weber State Wildcat Logo.png")
+ ![Weber State Wildcat Mascot](https://dylanzwick.com/assets/img/Weber-State-Wildcat-Logo.png)
