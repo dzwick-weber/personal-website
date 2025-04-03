@@ -20,13 +20,13 @@ author: Dylan Zwick
 ###############################################
 
 navbar-links:
-  Professional: "aboutme"
-  Personal:
-    - Running: "https://www.strava.com/athletes/20919946"
-    - Music: "https://www.chamberorchestraogden.org/"
-  Family:
-    - Patrick Zwick: "https://www.patrickzwick.com/"
-    - Aldiviva: "https://www.aldiviva.com/"
+  Weber State: "www.weber.edu"
+  #Personal:
+  #  - Running: "https://www.strava.com/athletes/20919946"
+  #  - Music: "https://www.chamberorchestraogden.org/"
+  #Family:
+  #  - Patrick Zwick: "https://www.patrickzwick.com/"
+  #  - Aldiviva: "https://www.aldiviva.com/"
 
 ################
 # --- Logo --- #
@@ -52,16 +52,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "dylanzwick@gmail.com"
+  # email: "dylanzwick@gmail.com"
   linkedin: dylanzwick
   github: dzwick-weber
   #  google-scholar: your google scholar
-  facebook: patrick.d.zwick
-  bluesky: dylanzwick.bsky.social
-  twitter: dzwick_weber
+  # facebook: patrick.d.zwick
+  # bluesky: dylanzwick.bsky.social
+  # twitter: dzwick_weber
   #  mastodon: instance.url/@username
-  youtube: "@dylanzwick"
-  strava: 20919946
+  # youtube: "@dylanzwick"
+  # strava: 20919946
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # whatsapp: 15551212
 # patreon: DeanAttali
