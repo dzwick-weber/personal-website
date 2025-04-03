@@ -20,7 +20,7 @@ author: Dylan Zwick
 ###############################################
 
 navbar-links:
-  internships: "/aboutme.md"
+  internships: "aboutme"
   #Personal:
   #  - Running: "https://www.strava.com/athletes/20919946"
   #  - Music: "https://www.chamberorchestraogden.org/"
