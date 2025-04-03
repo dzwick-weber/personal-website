@@ -52,17 +52,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: "dylanzwick@gmail.com"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: patrick.d.zwick
+  email: "dylanzwick@gmail.com"
+  linkedin: dylanzwick
   github: dzwick-weber
+  #  google-scholar: your google scholar
+  facebook: patrick.d.zwick
+  bluesky: dylanzwick.bsky.social
   twitter: dzwick_weber
-  # patreon: DeanAttali
+  #  mastodon: instance.url/@username
   youtube: "@dylanzwick"
-  # whatsapp: 15551212
+  strava: 20919946
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# whatsapp: 15551212
+# patreon: DeanAttali
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: dylanzwick
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,16 +79,13 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  bluesky: dylanzwick.bsky.social
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-  strava: 20919946
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
