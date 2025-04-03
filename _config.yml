@@ -20,11 +20,13 @@ author: Dylan Zwick
 ###############################################
 
 navbar-links:
-  About Dylan Zwick: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Professional: "aboutme"
+  Personal:
+    - Running: "https://www.strava.com/athletes/20919946"
+    - Music: "https://www.chamberorchestraogden.org/"
+  Family:
+    - Patrick Zwick: "https://www.patrickzwick.com/"
+    - Aldiviva: "https://www.aldiviva.com/"
 
 ################
 # --- Logo --- #
