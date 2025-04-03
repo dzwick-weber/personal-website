@@ -31,7 +31,7 @@ The intern’s responsibilities include:
 
 To apply for the internship please provide:
 
-* A completed intern application ([pdf](https://drive.google.com/file/d/10wp2KVrtt50Bg2uFXssntsfktPMXfjcX/view?usp=sharing), [doc](https://docs.google.com/document/d/1V2mWTrti3P85p_Q7D-RjpygXC_WPEsnm/edit?usp=drive_link&ouid=111673645041241607360&rtpof=true&sd=true)
+* A completed intern application ([pdf](https://drive.google.com/file/d/10wp2KVrtt50Bg2uFXssntsfktPMXfjcX/view?usp=sharing), [doc](https://docs.google.com/document/d/1V2mWTrti3P85p_Q7D-RjpygXC_WPEsnm/edit?usp=drive_link&ouid=111673645041241607360&rtpof=true&sd=true))
 * A resume
 * An unofficial transcript of coursework done at Weber State University
 
