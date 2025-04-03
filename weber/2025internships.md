@@ -4,9 +4,8 @@ title: Weber State Data Science Intern Program
 subtitle: Summer 2025
 ---
 
-<center>
   ![EAST Logo Horizontal](https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png)
-</center>
+
 
 The School of Computing at Weber State University is offering twelve scholarships for student internships during the summer of 2025. 
 These internships are joint projects with industry partners, and should involve work in data science, machine learning, data analytics, or data engineering. 
