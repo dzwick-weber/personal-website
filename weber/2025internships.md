@@ -4,7 +4,7 @@ title: Weber State Data Science Intern Program
 subtitle: Summer 2025
 ---
 
-  ![EAST Logo Horizontal](https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png)
+![EAST Logo Horizontal](https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png)
 
 
 The School of Computing at Weber State University is offering twelve scholarships for student internships during the summer of 2025. 
@@ -39,3 +39,5 @@ Please email applications to Prof. Dylan Zwick (dylanzwick@weber.edu). Please em
 If the intern has a faculty mentor and / or industry partner in mind, please specify that in the internship application. Otherwise, Prof. Dylan Zwick will work with you to find a faculty mentor and industry partner.
 
 We are working to fill these internships quickly, and earlier applicants get priority. So, if you're interested, please apply ASAP.
+
+ ![Weber State Wildcat Mascot](https://dylanzwick.com/assets/img/Weber State Wildcat Logo.png)
