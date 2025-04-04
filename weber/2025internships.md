@@ -8,9 +8,6 @@ subtitle: Summer 2025
   <img src="https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png" />
 </p>
 
-![EAST Logo Horizontal](https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png)
-
-
 The School of Computing at Weber State University is offering twelve scholarships for student internships during the summer of 2025. 
 These internships are joint projects with industry partners, and should involve work in data science, machine learning, data analytics, or data engineering. 
 They are full-time, 12 weeks, and 40 hours per week. These scholarships include:
@@ -44,4 +41,6 @@ If the intern has a faculty mentor and / or industry partner in mind, please spe
 
 We are working to fill these internships quickly, and earlier applicants get priority. So, if you're interested, please apply ASAP.
 
- ![Weber State Wildcat Mascot](https://dylanzwick.com/assets/img/Weber-State-Wildcat-Logo.png)
+<p align="center">
+  <img src="https://dylanzwick.com/assets/img/Weber-State-Wildcat-Logo.png" />
+</p>
