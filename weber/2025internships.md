@@ -4,6 +4,10 @@ title: Weber State Data Science Intern Program
 subtitle: Summer 2025
 ---
 
+<p align="center">
+  <img src="https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png" />
+</p>
+
 ![EAST Logo Horizontal](https://dylanzwick.com/assets/img/Weber-State-EAST-Horizontal.png)
 
 
